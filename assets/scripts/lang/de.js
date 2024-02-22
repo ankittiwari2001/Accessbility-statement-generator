@@ -1,0 +1,1 @@
+var translationStrings = {"Expand All Sections": "Alle Abschnitte aufklappen","Collapse All Sections": "Alle Abschnitte zuklappen","to footnote": "","back to footnote": "","in text": "",};
